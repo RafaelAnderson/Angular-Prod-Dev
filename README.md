@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
-## Creación del proyecto
+## Creación del Proyecto
 
 1. En CMD: `ng new ecommerce-angular-app`
 2. Would you like to add Angular Routing? `Y`
